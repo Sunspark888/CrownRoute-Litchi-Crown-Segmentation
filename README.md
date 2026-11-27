@@ -47,3 +47,9 @@ This command uses only the Python standard library. It calculates Peak, Top-5, n
 ## Availability
 
 This repository provides the paper's source code and synthetic example. The authors keep the manuscript, research images, original annotations, complete supervision sets and model weights separately. See the [distribution scope and third-party notices](docs/distribution.md).
+
+## License
+
+The original CrownRoute code in this repository is licensed under the [MIT License](LICENSE), Copyright (c) 2026 Zhongqi Jiang.
+
+Third-party software, pretrained models, and code carrying separate copyright notices remain subject to their respective licenses. See the [distribution and third-party notices](docs/distribution.md) for details.
